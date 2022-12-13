@@ -30,7 +30,7 @@ Add `flutter_carousel_intro: ^0.0.7` to your `pubspec.yaml` dependencies. And im
 import 'package:flutter_carousel_intro/flutter_carousel_intro.dart';
 ```
 
-## How to use
+## How to use it
 ```dart
 FlutterCarouselIntro(  
       slides: [
