@@ -6,7 +6,7 @@
 - [X] Custom child widgets
 - [X] Slide transition
 - [X] Rotate transition
-# Features to be implemented
+### Features to be implemented
 - [ ] Infinite Scroll 
 - [ ] Forward button & Back button 
 - [ ] Auto play
